@@ -1,0 +1,1 @@
+-e . ## When requirements.txt runs simultaneously setup.py must also run to enable that we use -e .
